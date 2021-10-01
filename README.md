@@ -1,6 +1,6 @@
 ### Hi there 👋 Ragnar Lodbrok or Maciej Oliwa, that's me!
-## I am a software engineer working on various of projects and tasks.
-## Always trying to improve and learn new things. Please stop by and take a look!
+ I am a software engineer working on various of projects and tasks.
+ Always trying to improve and learn new things. Please stop by and take a look!
 
 <!--
 **ragnarlodbrok1992/ragnarlodbrok1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
